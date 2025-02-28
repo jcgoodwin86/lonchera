@@ -1,5 +1,5 @@
-app = 'lonchera'
-primary_region = 'sjc'
+app = "lunchbox-bot"
+primary_region = "atl"
 
 [build]
 
